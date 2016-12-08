@@ -1,0 +1,14 @@
+[kdeglobals][KDE]
+widgetStyle=Breeze
+
+[kdeglobals][General]
+ColorScheme=Breeze
+
+[kdeglobals][Icons]
+Theme=pardus-kde-icon-theme
+
+[plasmarc][Theme]
+name=Arc-Dark
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
