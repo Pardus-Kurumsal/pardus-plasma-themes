@@ -8,7 +8,8 @@ Homepage: http://pardus.org.tr
 
 Package: pardus-plasma-themes
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
+Recommends: pardus-kde-icon-theme
 Description: Pardus Plasma Themes Package
  Pardus kde plasma look and feel combined themes that
  includes Arc-Dark forked desktop theme.
