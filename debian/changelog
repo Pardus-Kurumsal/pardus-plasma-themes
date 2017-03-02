@@ -1,3 +1,9 @@
+pardus-plasma-themes (2017.0.1) pardus; urgency=medium
+
+  * Fix pager opacity issue
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Thu, 02 Mar 2017 14:34:04 +0300
+
 pardus-plasma-themes (2016.1.2) pardus; urgency=medium
 
   * Add pardus-kde-icon-theme to recommends section
